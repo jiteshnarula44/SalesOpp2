@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pandas
+pyodbc
+azure-storage-blob==12.16.0
+xlsxwriter==3.0.2
